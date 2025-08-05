@@ -41,7 +41,7 @@
 <script setup>
 const courses = [
     {
-        image: "/images/ct_1.png",
+        image: "images/ct_1.png",
         imageTitle: "Khoá học",
         imageSubtitle: "Kỹ thuật viên Spa chuyên nghiệp",
         title: "Khoá học Spa",
@@ -49,7 +49,7 @@ const courses = [
             "Khoá học Spa đào tạo từ cơ bản đến nâng cao làm đẹp được thiết kế phù hợp với nhu cầu của các học viên nhằm mục đích sau khi kết thúc khoá học có thể làm việc chuyên nghiệp hoặc là mở cơ sở Spa cho riêng mình.",
     },
     {
-        image: "/images/ct_2.png",
+        image: "images/ct_2.png",
         imageTitle: "Khoá học",
         imageSubtitle: "Phun xăm thẩm mỹ chuyên nghiệp",
         title: "Khoá học phun xăm",
@@ -57,7 +57,7 @@ const courses = [
             "Khoá học phun xăm đào tạo và rèn luyện kỹ năng nghề phun xăm thẩm mỹ từ cơ bản đến nâng cao. Các kỹ thuật phun xăm thẩm mỹ bao gồm phun môi, phun chân mày, phun mí mắt và các kỹ thuật phun xăm khác.",
     },
     {
-        image: "/images/ct_3.png",
+        image: "images/ct_3.png",
         imageTitle: "Khoá học",
         imageSubtitle: "Chăm sóc da chuyên nghiệp",
         title: "Khoá học chăm sóc da",

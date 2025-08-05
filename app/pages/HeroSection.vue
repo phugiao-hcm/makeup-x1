@@ -23,7 +23,7 @@
             <h1
                 class="text-white text-3xl md:text-5xl font-bold drop-shadow-lg"
             >
-                Chào mừng đến với Seoul Academy
+                Chào mừng đến với Phú Giáo Academy
             </h1>
         </div>
     </section>
@@ -37,9 +37,9 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 const images = [
-    "/images/makup_1.png",
-    "/images/makup_2.png",
-    "/images/makup_3.png",
+    "images/makup_1.png",
+    "images/makup_2.png",
+    "images/makup_3.png",
 ];
 </script>
 
